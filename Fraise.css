@@ -1,7 +1,7 @@
 .lelogo{
     text-align: left;
     max-width: 200px;
-    height:auto;
+    max-height: fit-content;
 }
 .lasousdiv{
     display: flex;
